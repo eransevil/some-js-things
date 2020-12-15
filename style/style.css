@@ -1,0 +1,140 @@
+html{
+  width: 100%;
+  height: 100%;
+
+}
+body {
+  text-align: center;
+  height: 500px;
+  margin: 0px
+  ;
+}
+
+hr{
+  border-color:#f05f44; 
+  border-width: 4px;
+}
+
+.header {
+  background-color: blanchedalmond;
+  height: 10%;
+  border: 3px solid lightgray;
+  padding-bottom: 1%;
+}
+h1 {
+  color: rgb(13, 31, 34);
+  margin: auto;
+}
+.elball{
+  background-color: rgb(163, 221, 221);
+  height: 150px;
+  width: 150px;
+  padding: 10px;
+  border-radius: 50%;
+  border: 3px solid lavender;
+  margin: auto;
+  line-height: 120px;
+  margin-bottom: 20px;
+  font-size: 40px;
+  vertical-align: center;
+}
+
+
+.elbtn{
+  background-attachment: fixed;
+  background-color:lavender;
+  border-radius: 5%;
+  padding: 4px;
+  margin-bottom: 20px;
+    
+}
+.elbtn2{
+  background-attachment: fixed;
+  background-color:lavender;
+  border-radius: 5%;
+  padding: 4px;
+  margin-bottom: 20px;
+    
+}
+
+.inputClass{
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+p a:hover {
+  color: red;
+}
+
+.H1_div {
+  text-decoration: underline;
+}
+
+p {
+  font-size: 20px;
+  font-style: initial;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.contact {
+  text-align: left;
+  padding: 10px;
+  display: inline-block ;
+  margin-left: -850px;
+  text-decoration: underline;
+  border: solid 3px rgb(101, 131, 148);
+}
+
+
+.footer {
+  height: 10%;
+  border: 3px solid rgb(44, 41, 40);
+  margin: auto;
+  border-radius: 5px;
+  background-color: pink;
+  
+  
+}
+
+.footer :hover {
+  height: 10%;
+  border: 3px solid royalblue;
+  margin: auto;
+  border-radius: 5px;
+  padding: 20px;
+  
+}
+.footer-copyright text-center py-3{
+  background-color: red;
+}
+
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary{
+  background-color: #f05f44;
+  border-color:  #f05f44;
+ 
+}
+
+.btn-primary:hover{
+  background-color: #ee4b08;
+  border-color: #f05f44;
+  border-width: 4px;
+}
+
+.btn-xl{
+  padding: 1rem ;
+  margin-bottom: 10px;
+}
+
+
+/* .name_button{
+  padding: 10px;
+} */
+/* .score_button{
+  padding: 10px;
+} */
